@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/include/python3.9",
+        "/usr/lib/python3/dist-packages"
+      ],
+      "defines": [],
+      "cStandard": "c17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
